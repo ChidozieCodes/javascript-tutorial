@@ -159,7 +159,7 @@ console.log(fruits[3]);
 
 // CLASSWORK
 
-// const animals = ['kangaroo', 'Antelop', 'Mongoose', 'Ostritch', 'Ape'];
+const animals = ['kangaroo', 'Antelop', 'Mongoose', 'Ostritch', 'Ape'];
 /*
     Questions
 
