@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth;
+    list-style-type: none;
+    font-family: 'Open Sans, sans-serif';
+}
+#box1{
+    width: 60px;
+    height: 60px;
+    background-color: blueviolet;
+    margin: 1%;
+    transition: 0.2s ease;
+}
+#box2{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    margin: 1%;
+    transition: 0.2s ease;
+}
+#box3{
+    width: 60px;
+    height: 60px;
+    background-color: fuchsia;
+    margin: 1%;
+}
